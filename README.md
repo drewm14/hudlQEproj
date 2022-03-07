@@ -22,16 +22,16 @@ Andrew Morgan
 OVERVIEW OF TEST CASES
 
 *NEGATIVE SCENARIOS*
-Ensure that login is not allowed without entering a username and password
-Ensure that login is not allowed when entering a username and a blank password
-Ensure that login is not allowed when entering a blank username and a correct password
-Ensure that login is not allowed when entering an incorrect username and password combination
+\nEnsure that login is not allowed without entering a username and password
+\nEnsure that login is not allowed when entering a username and a blank password
+\nEnsure that login is not allowed when entering a blank username and a correct password
+\nEnsure that login is not allowed when entering an incorrect username and password combination
 
 
 *KEY FUNCTION TESTING*
-Ensure that a User can successfully login using valid username and password credentials
+\nEnsure that a User can successfully login using valid username and password credentials
 
 *SECURITY TESTING*
-Verify that when a User logs out, they cannot be logged back in by hitting back arrow in browser
+\nVerify that when a User logs out, they cannot be logged back in by hitting back arrow in browser
 
 
