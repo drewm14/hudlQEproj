@@ -4,7 +4,8 @@ Hello,
 
 Prior to running the tests within this framework and test suite:
 
-1. using settings-template.py, enter in username and password that will be used to run the suite,
+1. This testsuite was designed for use within the PyCharm IDE by JetBrains
+2. using settings-template.py, enter in username and password that will be used to run the suite,
 and save the file as settings.py (this new file will be automatically ignored by Git when checking in)
 
 
